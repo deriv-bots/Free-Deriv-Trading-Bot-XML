@@ -5,6 +5,6 @@ Free Deriv Trading Bot - Download the xml file attached and trade with your dbot
 
 This is a free bot Reach me for legit 100% win rate premium bots
 
-E-Mail: lewisluseka@gmail.com or Whatsapp: https://254780392681
+E-Mail: derivkingnato@gmail.com or Whatsapp: https://wa.me/254103601101
 
-Join telegram channel:  https://t.me/deriv_binary_forex_trading
+Join telegram channel:  https://t.me/DerivBot_Trading
