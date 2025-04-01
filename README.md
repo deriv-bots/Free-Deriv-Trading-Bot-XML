@@ -1,9 +1,9 @@
 # Free-Deriv-Trading-Bot-XML
-Deriv Bot
+Free Deriv Bots
 
-Free Deriv Trading Bot - Download the xml file attached and trade with your dbot on deriv, 95% win rate.
+Free Deriv Trading Bots - Download the xml file attached and trade with your dbot on deriv, 95% win rate when correctly used.
 
-This is a free bot Reach me for legit 100% win rate premium bots
+This are free bots, Contact me for accurate 100% win rate premium bots, analysis tool, mentorship or signals below;
 
 E-Mail: derivkingnato@gmail.com or Whatsapp: https://wa.me/254103601101
 
