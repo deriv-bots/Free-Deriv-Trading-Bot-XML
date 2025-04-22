@@ -42,7 +42,7 @@ Please note that these bots are intended for experienced traders who are familia
  # 😄 Want to help keeping the project?<br>
 
 You want to contribute to the project? 
-Make a donation to us, WhatsApp us +254103601101 for donation payment details.
+Make a donation to us, Email us derivkingnato@gmail.com for donation payment details.
 
 
 </br>
@@ -60,7 +60,7 @@ There are almost 40+ premium bots and strategies.\
 I created this combo to help people so that they can test more bot and they can find out their best-suited bot for their own. Not only this but all the upcoming future premium bots also free for you.If you like you can get the combo offer.
 
 
-If you want to get bot/strategy one by one, Contact me through derivkingnato@gmail.com OR by WhatsApp https://254103601101
+If you want to get bot/strategy one by one, Contact me through derivkingnato@gmail.com
 
 
 # Tips
