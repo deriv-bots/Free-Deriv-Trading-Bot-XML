@@ -1,5 +1,15 @@
 # Deriv-Bots-XML
 This is a collection https://dbot.deriv.com xml bots
+
+For inquiries;
+
+WhatsApp Chat me at https://wa.me/254747204803
+
+or 
+
+Telegram Chat me at https://t.me/Deriv_Ace
+
+
 <h1 align="center">
 Deriv Bots
 </h1>
@@ -73,7 +83,7 @@ If you want to get bot/strategy one by one, Contact me through derivkingnato@gma
 
 # Conclusion
 
-Deriv Bot can be a powerful tool for automating binary options trading strategies, but it is important to use them with caution. Always use proper risk management and test the bots thoroughly before using them on live accounts. If you want to maximize your chances of success, do your own research and seek professional advice before making any investment decisions.
+Binary Bot & Deriv Bot can be a powerful tool for automating binary options trading strategies, but it is important to use them with caution. Always use proper risk management and test the bots thoroughly before using them on live accounts. If you want to maximize your chances of success, do your own research and seek professional advice before making any investment decisions.
 
 
 # Support
