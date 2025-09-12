@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Deriv Bots XML Collection 📄</h1>
 
 <p align="center">
-A curated set of XML bots for <a href="https://dbot.deriv.com">dbot.deriv.com</a> — optimized for performance, precision, and profit.
+Accurated set of XML bots for <a href="https://dbot.deriv.com">dbot.deriv.com</a>  optimized for performance, precision, and profit.
 </p>
 
 ---
@@ -15,7 +15,7 @@ This repo contains a collection of XML-based Deriv bots designed for automated b
 - ✅ Trend indicators  
 - ✅ Visual strategy mapping  
 
-They’re built for traders who want high win rates with controlled risk. Martingale stages are supported — but use with caution.
+They’re built for traders who want high win rates with controlled risk. Martingale stages are supported, but use with caution.
 
 ---
 
@@ -35,7 +35,7 @@ They’re built for traders who want high win rates with controlled risk. Martin
 
 ---
 
-## 💬 Contact & Mentorship
+## 💬 My Contacts & Mentorship Inquiries
 
 Want premium bots or 1-on-1 guidance? Reach out:
 
@@ -47,10 +47,14 @@ Want premium bots or 1-on-1 guidance? Reach out:
 
 ## 💸 Premium Bot Combo Offer
 
-Over 40+ premium bots and strategies available — plus lifetime access to future releases. Test, compare, and find your perfect fit.
+There are over 40+ premium bots and strategies available  plus lifetime access to future releases. Test, compare, and find your perfect fit.
 
 - Combo deal includes all bots + future updates  
-- Or buy bots individually — contact for pricing
+- Or buy bots individually
+  Contact me for pricing:
+  - 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
+- 💬 Telegram: [@Deriv_Bot_Pro](https://t.me/Deriv_Bot_Pro)  
+- 📧 Email: derivkingnato@gmail.com  
 
 ---
 
@@ -83,10 +87,11 @@ This project is licensed under the MIT License.
 
 ## 🙌 Support the Project
 
-If you’ve benefited from these bots, consider supporting:
+If you’ve benefited from these bots, consider supporting by donating, contact me below for donation details:
 
-- 💌 Email: derivkingnato@gmail.com  
-- 📱 WhatsApp: +254747204803 (for donation details)
+- 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
+- 💬 Telegram: [@Deriv_Bot_Pro](https://t.me/Deriv_Bot_Pro)  
+- 📧 Email: derivkingnato@gmail.com  
 
 ---
 
