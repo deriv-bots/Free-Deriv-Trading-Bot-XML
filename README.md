@@ -49,7 +49,7 @@ Want premium bots or 1-on-1 guidance? Reach out:
 
 There are over 40+ premium bots and strategies available  plus lifetime access to future releases. Test, compare, and find your perfect fit.
 
-- Combo deal includes all bots + future updates or buy bots indivi
+- Combo deal includes all bots + future updates or buy bots individually
 - Contact me for pricing:
 - 📱 WhatsApp: [Chat Now](https://wa.me/254747204803)  
 - 💬 Telegram: [@Deriv_Bot_Pro](https://t.me/Deriv_Bot_Pro)  
