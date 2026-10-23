@@ -10,14 +10,14 @@ Accurate set of XML bots for <a href="https://t.deriv.link?t=ABTHJJZETLX3">bot.d
 
 This repo contains a collection of XML-based Deriv bots designed for automated binary options trading. These bots collection leverage core techniques & strategies like:
 
-
+<div align="center">
 | Technique | Description |
 | --- | --- |
 | ✅ Tick movement analysis | Reads short-term price direction from tick flow |
 | ✅ Last digit pattern recognition | Exploits digit distributions on synthetic indices |
 | ✅ Trend indicators | Moving averages, momentum, and breakout logic |
 | ✅ Visual strategy mapping | Blocks are laid out and labelled for easy editing |
-
+</div>
 
 They’re built for traders who want high win rates with controlled risk. Martingale stages are supported, but use with caution.
 
